@@ -1,0 +1,41 @@
+/*
+ * Estilos reutilizables
+*/
+
+*{
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Helvetica";
+}
+
+.font-lato{
+  font-family: "Lato", sans-serif;
+}
+
+.font-mont{
+  font-family: 'Montserrat', sans-serif;
+  font-style: bold;
+}
+
+.white{
+  color: white
+}
+
+.text-upper{
+  text-transform: uppercase;
+}
+
+.text-capitalize{
+  text-transform: capitalize;
+}
+
+a{
+  text-decoration: none;
+}
+
+li{
+ list-style: none;
+}
