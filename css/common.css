@@ -46,3 +46,7 @@ li{
   align-items: center;
   justify-content: center;
 }
+
+.border{
+  border: 14px solid white;
+}
